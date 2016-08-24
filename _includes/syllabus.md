@@ -45,6 +45,7 @@ After this class you should be able to
 
 
 To map percentages to letter grades we use the following python script
+
 ```python
 def grade(p):
   from math import floor
