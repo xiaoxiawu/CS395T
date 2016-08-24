@@ -91,11 +91,13 @@ def grade(p):
 
 ### Expected workload
 Estimates of required effort to pass the class are:
+
  * 2-4 hours per week reading / reviewing papers
  * 7 hours per semester (1/2 hour per week) preparing paper presentations
  * 2-10 hours per week of programming
 
 ### General tips
+
  * Start the projects early
    * most deep neural networks take 1 day to train in a GPU
    * let us know early if you don't have GPU access (first or second week)
@@ -104,6 +106,7 @@ Estimates of required effort to pass the class are:
    * you have the option to get feedback on your slides ahead of time from the instructor
 
 #### Tips for reading/reviewing a paper
+
  * Just reading the paper is **not** sufficient
    * Do **more** than merely summarizing the paper
    * No paper is *trivial*
@@ -118,6 +121,7 @@ Estimates of required effort to pass the class are:
    * Mark things you disagree with (you think are wrong) in a different color
 
 #### Tips for presentations
+
  * Have a story
    * Motivate well
    * Provide context
