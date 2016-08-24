@@ -5,11 +5,9 @@ description: "Course page and materials for UT Austin class CS395T - Deep learni
 url: "http://philkr.github.io/CS395T"
 
 # Build settings
-markdown: kramdown
 permalink: pretty
-
 highlighter: rouge
-kramdown:
-  input: GFM
-  auto_ids: true
-  syntax_highlighter: rouge
+
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables", "fenced_code_blocks"]
