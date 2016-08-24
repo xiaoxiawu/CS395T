@@ -16,10 +16,10 @@ Please use [piazza]() for assignment questions.
  * 391L - Intro Machine learning  (or equivalent)
  * 311 or 311H - Discrete math for computer science (or equivalent)
  * **proficiency in Python**, high level C++ understanding
-   * All projects are in Python with Caffe or Tensorflow as recommended deep learning backends. It is also recommended to familiarize yourself with numpy, scipy, scikit-learn and matplotlib as additional libraries.
+   * All projects are in Python with Caffe, Tensorflow or Theano as recommended deep learning backends. It is also recommended to familiarize yourself with numpy, scipy, scikit-learn and matplotlib as additional libraries.
    * NOTE: It is possible to use other languages, but the course staff cannot provide support.
  * Basic **deep learning background**
-   * You should be familiar with at least one deep learning package (Caffe, Tensorflow, Torch, Matconvnet, ...). You should have **trained at least one deep network** with one of these packages. I'd encourage the use of Caffe or Tensorflow for projects (if you want help from the course staff), but it is not required.
+   * You should be familiar with at least one deep learning package (Caffe, Tensorflow, Torch, Matconvnet, ...). You should have **trained at least one deep network** with one of these packages. I'd encourage the use of Caffe, Tensorflow or Theano for projects (if you want help from the course staff), but it is not required.
 
 
 ### Class overview
@@ -35,12 +35,13 @@ After this class you should be able to
 
  * Read, rate and review deep learning papers
  * Create and give an interesting presentation on in deep learning
- * Devise and execute a research project in deep learning (at the level of a top tier workshop publication: CVPR, ICCV, ICML, NIPS, ACL or SIGGRAPH)
+ * Devise and execute a research project in deep learning (at the level of a top tier workshop publication: CVPR, ICCV, ICML, NIPS, ACL, SIGGRAPH or equivalent)
 
 ### Grading
- * 2 x 20%  paper presentation
- * 20%  project 1 (10% presentation, 10% project)
+ * 30%  paper presentation
+ * 30%  project 1 (10% presentation, 20% project)
  * 40%  project 2 (10% presentation, 30% project)
+ * (optional) 30%  volunterring for second presentation
 
 
 To map percentages to letter grades we use the following python script
@@ -87,38 +88,44 @@ def grade(p):
 | Dec 01 | Final project presentations | Format TBD | | |
 
 
+### Expected workload
+Estimates of required effort to pass the class are:
+ * 2-4 hours per week reading / reviewing papers
+ * 7 hours per semester (1/2 hour per week) preparing paper presentations
+ * 2-10 hours per week of programming
+
 ### General tips
- * Start the project early
-  * most deep neural networks take 1 day to train in a GPU
-  * let us know early if you don't have GPU access (first or second week)
+ * Start the projects early
+   * most deep neural networks take 1 day to train in a GPU
+   * let us know early if you don't have GPU access (first or second week)
  * read your assigned papers early and prepare the slides early
-  * a bad presentation will waste 30 min of your fellow students lives
-  * you have the option to get feedback on your slides ahead of time from the instructor
+   * a bad presentation will waste 30 min of your fellow students lives
+   * you have the option to get feedback on your slides ahead of time from the instructor
 
 #### Tips for reading/reviewing a paper
  * Just reading the paper is **not** sufficient
-  * Do **more** than merely summarizing the paper
-  * No paper is *trivial*
+   * Do **more** than merely summarizing the paper
+   * No paper is *trivial*
  * Question any decision and claim made by the authors
-  * It is the authors responsibility to convince you that their approach works better than prior (or simpler) alternatives
-  * If a claim is not backed by experiments or a citation (or backed by a wrong citation), you may assume it's wrong
+   * It is the authors responsibility to convince you that their approach works better than prior (or simpler) alternatives
+   * If a claim is not backed by experiments or a citation (or backed by a wrong citation), you may assume it's wrong
  * Think about how this fits with other peoples findings
-  * Is there a larger theme across a series of papers?
-  * Does it contradict other paper you know?
+   * Is there a larger theme across a series of papers?
+   * Does it contradict other paper you know?
  * Use colored markers
-  * Mark important things in one color
-  * Mark things you disagree with (you think are wrong) in a different color
+   * Mark important things in one color
+   * Mark things you disagree with (you think are wrong) in a different color
 
 #### Tips for presentations
  * Have a story
-  * Motivate well
-  * Provide context
+   * Motivate well
+   * Provide context
  * Make the presentation **visual**
-  * Use at least one picture/figure/graph per slide
-  * Walls of bulleted text are unacceptable
-  * Most mathematical concepts can first be expressed in a figure
+   * Use at least one picture/figure/graph per slide
+   * Walls of bulleted text are unacceptable
+   * Most mathematical concepts can first be expressed in a figure
  * Feel free to make things interactive
-  * as long as it fits into the time budget
+   * as long as it fits into the time budget
  * Show your slides to the instructor a week before the presentation
 
 ### Notes
