@@ -10,7 +10,7 @@ office hours by appointment (send email)
 office [GDC 6.802](http://facilitiesservices.utexas.edu/buildings/UTM/0152)<br/>
 office hours We 10-11am
 
-Please use [piazza]() for assignment questions.
+Please use [piazza](http://www.piazza.com/utexas/fall2016/cs395tdeeplearning) for assignment questions.
 
 ### Prerequisites
  * 391L - Intro Machine learning  (or equivalent)
@@ -26,7 +26,7 @@ Please use [piazza]() for assignment questions.
  * The class reads (rates and reviews) two recent research papers per class
  * Each paper is presented by one student (two per class), and discussed by entire class.
  * Two projects in teams up to 3 students (teams can change between projects)
- * Auditing allowed if there is space (no homework or presentation, but paticipation required)
+ * Auditing allowed if there is space (no homework or presentation, but participation required)
 
 This class covers advanced topics in deep learning, ranging from optimization to computer vision, computer graphics and unsupervised feature learning, and touches on deep language models, as well as deep learning for games. This is meant to be a very interactive class for upper level students (MS or PhD). For every class we read two recent research papers (most no older than two years), which we will discuss in class.
 
@@ -41,7 +41,7 @@ After this class you should be able to
  * 30%  paper presentation
  * 30%  project 1 (10% presentation, 20% project)
  * 40%  project 2 (10% presentation, 30% project)
- * (optional) 30%  volunterring for second presentation
+ * (optional) 12.5%  volunteering for second presentation
 
 
 To map percentages to letter grades we use the following python script
@@ -58,9 +58,9 @@ def grade(p):
 
 | Date | Topic | Papers | Presenters | Notes and due dates |
 | --- | --- | --- | --- | --- |
-| Aug 25 | Administrative and intro (Linear models) | | | |
-| Aug 30 | Gradient based optimization | [Large-scale machine learning with stochastic gradient descent, Bottou 2010](http://www-roc.inria.fr/axis/COMPSTAT2010/slides/slides_17.pdf) |  | |
-| Sep 1 | Deep networks and backpropagation |  [Deep learning, LeCun, Bengio and Hinton 2015](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html) |  | **paper selection** Th Sep 1, **6am** email TA |
+| Aug 25 | Administrative and intro (Linear models) | | Philipp | |
+| Aug 30 | Gradient based optimization | [Large-scale machine learning with stochastic gradient descent, Bottou 2010](http://www-roc.inria.fr/axis/COMPSTAT2010/slides/slides_17.pdf) | Philipp | |
+| Sep 1 | Deep networks and backpropagation |  [Deep learning, LeCun, Bengio and Hinton 2015](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html) | Philipp | **paper selection** Th Sep 1, **6am** email TA |
 | Sep 06 | Dropout and batch normalization | [Dropout: A Simple Way to Prevent Neural Networks from Overfitting, Srivastava etal. 2014](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)<br/><br/>[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, Ioffe etal. 2015](https://arxiv.org/pdf/1502.03167v3) | | **project 1 out** |
 | Sep 08 | Advanced optimization and initialization | [Adam: A Method for Stochastic Optimization, Kingma and Ba 2015](https://arxiv.org/pdf/1412.6980v8.pdf) <br/><br/>[Data-dependent Initializations of Convolutional Neural Networks, Krähenbühl etal. 2016](https://arxiv.org/pdf/1511.06856v2.pdf) | | |
 | Sep 13 | Convolutional Networks for image classification | [Gradient-based learning applied to document recognition, LeCun etal. 1998](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)<br/><br/>[ImageNet Classification with Deep Convolutional Neural Networks, Krizhevsky etal. 2012](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) | | |
