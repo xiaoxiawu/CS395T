@@ -1,6 +1,6 @@
 # CS 395T - Deep learning seminar - Fall 2016
 
-**meets** TTh 2:30 - 4pm in WAG 308
+**meets** TTh 2:00 - 3:30pm in WAG 308
 
 **instructor** [Philipp Krähenbühl](http://www.philkr.net)<br/>
 office [GDC 4.824](http://facilitiesservices.utexas.edu/buildings/UTM/0152)<br/>
