@@ -52,7 +52,7 @@ def grade(p):
   from math import floor
   if p < 50: return 'F'
   v = (100-p) * 4 / (50 + 1e-5)
-  return chr(ord('A')+floor(v)) + ['+','','','-'][floor((v-floor(v))*4)]
+  return chr(ord('A')+int(v)) + ['+','','','-'][int((v-floor(v))*4)]
 ```
 
 ### Schedule
