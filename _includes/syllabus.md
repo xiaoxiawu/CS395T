@@ -7,8 +7,9 @@ office [GDC 4.824](http://facilitiesservices.utexas.edu/buildings/UTM/0152)<br/>
 office hours by appointment (send email)
 
 **TA** Huihuang Zheng<br/>
+email huihuang@utexas.edu<br/>
 office [GDC 6.802](http://facilitiesservices.utexas.edu/buildings/UTM/0152)<br/>
-office hours We 10-11am
+TA hours We 9:30-10:30am at TA station desk 2  
 
 Please use [piazza](http://www.piazza.com/utexas/fall2016/cs395tdeeplearning) for assignment questions.
 
