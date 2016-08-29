@@ -60,7 +60,7 @@ def grade(p):
 | Date | Topic | Papers | Presenters | Notes and due dates |
 | --- | --- | --- | --- | --- |
 | Aug 25 | Administrative and intro (Linear models) | | Philipp | |
-| Aug 30 | Gradient based optimization | [Large-scale machine learning with stochastic gradient descent, Bottou 2010](http://www-roc.inria.fr/axis/COMPSTAT2010/slides/slides_17.pdf) | Philipp | |
+| Aug 30 | Gradient based optimization | [Large-scale machine learning with stochastic gradient descent, Bottou 2010](http://leon.bottou.org/publications/pdf/compstat-2010.pdf) | Philipp | |
 | Sep 1 | Deep networks and backpropagation |  [Deep learning, LeCun, Bengio and Hinton 2015](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html) | Philipp | **paper selection** Th Sep 1, **6am** email TA |
 | Sep 06 | Dropout and batch normalization | [Dropout: A Simple Way to Prevent Neural Networks from Overfitting, Srivastava etal. 2014](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)<br/><br/>[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, Ioffe etal. 2015](https://arxiv.org/pdf/1502.03167v3) | | **project 1 out** |
 | Sep 08 | Advanced optimization and initialization | [Adam: A Method for Stochastic Optimization, Kingma and Ba 2015](https://arxiv.org/pdf/1412.6980v8.pdf) <br/><br/>[Data-dependent Initializations of Convolutional Neural Networks, Krähenbühl etal. 2016](https://arxiv.org/pdf/1511.06856v2.pdf) | | |
