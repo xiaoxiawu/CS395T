@@ -1,8 +1,14 @@
+---
+layout: default
+title: CS 395T - Deep learning seminar - Fall 2016
+permalink: /index.html
+---
 # CS 395T - Deep learning seminar - Fall 2016
 
 **meets** TTh 2:00 - 3:30pm in WAG 308
 
 **instructor** [Philipp Krähenbühl](http://www.philkr.net)<br/>
+email philkr (at) utexas.edu<br/>
 office [GDC 4.824](http://facilitiesservices.utexas.edu/buildings/UTM/0152)<br/>
 office hours by appointment (send email)
 
@@ -88,6 +94,9 @@ def grade(p):
 | Nov 24 | No Class | Thanksgiving holidays | | |
 | Nov 29 | Final project presentations | Format TBD | | Project 2 due **6am** |
 | Dec 01 | Final project presentations | Format TBD | | |
+
+### Paper assignment
+All papers are assigned by a Deep Networks based on student preferences. If you don't like your paper, please blame deep learning, tensorflow or your preference list (instead of the instructor). The code for the assignment problem can be found here: [html](reading_assignment/pa.html) [ipynb](reading_assignment/pa.ipynb).
 
 
 ### Expected workload

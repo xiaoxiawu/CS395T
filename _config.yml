@@ -3,11 +3,13 @@ title: CS395T - Deep learning
 email: philkr@cs.utexas.edu
 description: "Course page and materials for UT Austin class CS395T - Deep learning"
 url: "http://philkr.github.io/CS395T"
+baseurl: /CS395T/
 
 # Build settings
 permalink: pretty
 highlighter: rouge
 
+markdown_ext: "md"
 markdown: redcarpet
 redcarpet:
   extensions: ["tables", "fenced_code_blocks"]
