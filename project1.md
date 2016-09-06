@@ -16,7 +16,7 @@ This project focuses on image level prediciton using deep (convolutional) networ
 
 *link to follow*
 
-![yearbook](project1/yearbook.png)
+![yearbook](yearbook.jpg)
 
 This dataset contains frontal-facing American high school year-book photos with labels to indicate the years those photos were taken. You task is to train a deep network to predict this year on novel images, yearbook images.
 
@@ -26,7 +26,7 @@ This dataset contains frontal-facing American high school year-book photos with 
 
 *link to follow*
 
-![france](project1/france.jpg)
+![france](france.jpg)
 
 This dataset contains images from France street view with geolocation label (latitude and longitude). You task is to predict the geolocation of novel street view images.
 
