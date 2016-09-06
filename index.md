@@ -46,7 +46,7 @@ After this class you should be able to
 
 ### Grading
  * 30%  paper presentation
- * 30%  project 1 (10% presentation, 20% project)
+ * 30%  [project 1](project1) (10% presentation, 20% project)
  * 40%  project 2 (10% presentation, 30% project)
  * (optional) 12.5%  volunteering for second presentation
 
@@ -68,7 +68,7 @@ def grade(p):
 | Aug 25 | Administrative and intro (Linear models) | | Philipp [slides](slides/w1_intro.pdf) | |
 | Aug 30 | Gradient based optimization | [Large-scale machine learning with stochastic gradient descent, Bottou 2010](http://leon.bottou.org/publications/pdf/compstat-2010.pdf) | Philipp [slides](slides/w2_sgd.pdf) | |
 | Sep 1 | Deep networks and backpropagation |  [Deep learning, LeCun, Bengio and Hinton 2015](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html) | Philipp [slides](slides/w2_dl.pdf) | **paper selection** Th Sep 1, **6am** email TA |
-| Sep 06 | Dropout and batch normalization | [Dropout: A Simple Way to Prevent Neural Networks from Overfitting, Srivastava etal. 2014](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)<br/><br/>[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, Ioffe etal. 2015](https://arxiv.org/pdf/1502.03167v3) | Dongguang You<br/><br/>--| **project 1 out** |
+| Sep 06 | Dropout and batch normalization | [Dropout: A Simple Way to Prevent Neural Networks from Overfitting, Srivastava etal. 2014](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)<br/><br/>[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, Ioffe etal. 2015](https://arxiv.org/pdf/1502.03167v3) | Dongguang You<br/><br/>--| [project 1 out](project1) |
 | Sep 08 | Advanced optimization and initialization | [Adam: A Method for Stochastic Optimization, Kingma and Ba 2015](https://arxiv.org/pdf/1412.6980v8.pdf) <br/><br/>[Data-dependent Initializations of Convolutional Neural Networks, Krähenbühl etal. 2016](https://arxiv.org/pdf/1511.06856v2.pdf) | Rongting Zhang<br/><br/>--| |
 | Sep 13 | Convolutional Networks for image classification | [Gradient-based learning applied to document recognition, LeCun etal. 1998](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)<br/><br/>[ImageNet Classification with Deep Convolutional Neural Networks, Krizhevsky etal. 2012](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) | Xiaoxia Wu<br/><br/>Yinan Zhao| |
 | Sep 15 | Convolutional Networks for object detection | [Rich feature hierarchies for accurate object detection and semantic segmentation, Girshick etal. 2014](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf)<br/><br/>[Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, Ren etal. 2015](https://arxiv.org/pdf/1506.01497v3.pdf) | Mit Shah<br/><br/>Zhuode Liu| |
