@@ -14,7 +14,7 @@ This project focuses on image level prediciton using deep (convolutional) networ
 
 ### Face to age
 
-*link to follow*
+[dataset](http://www.cs.utexas.edu/~philkr/cs395t/yearbook_trainval.tar.gz)
 
 ![yearbook](yearbook.jpg)
 
@@ -24,7 +24,7 @@ This dataset contains frontal-facing American high school year-book photos with 
 
 ### Geolocation
 
-*link to follow*
+[dataset](http://www.cs.utexas.edu/~philkr/cs395t/france_streetview_trainval.tar.gz)
 
 ![france](france.jpg)
 
@@ -34,7 +34,7 @@ This dataset contains images from France street view with geolocation label (lat
 
 ## Starter code and data
 
-*Link to github branch to follow*
+Check the starter code out [here](https://github.com/philkr/CS395T/tree/project1).
 
 For both project, we provide you with a training data set and a validation data set (you can use it as your test set). However, we will keep a hidden test set to make sure your algorithm is not overfitting too much.
 
