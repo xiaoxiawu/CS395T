@@ -1,13 +1,22 @@
 from __future__ import print_function
 from os import path
-from math import sin, cos, atan2, sqrt
+from math import sin, cos, atan2, sqrt, pi
 
 from src.util import *
 
-# Calculate distance between Latitude/Longitude points
+
+def numToRadians(x):
+  return x / 180.0 * pi
+
+# Calculate distance (km) between Latitude/Longitude points
 # Reference: http://www.movable-type.co.uk/scripts/latlong.html
-EARTH_RADIUS = 6371e3
+EARTH_RADIUS = 6371
 def dist(lat1, lon1, lat2, lon2):
+  lat1 = numToRadians(lat1)
+  lon1 = numToRadians(lon1)
+  lat2 = numToRadians(lat2)
+  lon2 = numToRadians(lon2)
+
   dlat = lat2 - lat1
   dlon = lon2 - lon1
 
