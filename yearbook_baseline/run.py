@@ -15,6 +15,7 @@ except:
   exit(0)
 
 class Predictor:
-  def predict(image_path):
+  DATASET_TYPE = 'yearbook'
+  def predict(self, image_path):
     return year
 

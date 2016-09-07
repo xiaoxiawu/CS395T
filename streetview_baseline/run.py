@@ -15,6 +15,7 @@ except:
   exit(0)
 
 class Predictor:
-  def predict(image_path):
+  DATASET_TYPE = 'streetview'
+  def predict(self, image_path):
     return longitude, latitude
 
